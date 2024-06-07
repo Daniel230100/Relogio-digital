@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: black;
+}
+
+div{
+    color: white;
+    font-size: 25vmax;
+    border: 10px solid white;
+}
